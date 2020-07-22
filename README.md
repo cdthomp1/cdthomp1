@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cdthomp1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
