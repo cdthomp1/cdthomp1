@@ -26,8 +26,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 🖥 &nbsp;
-
 
 <p align="center">
 <a href="https://github.com/AVS1508">
