@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-![](https://komarev.com/ghpvc/?username=cdthomp1&color=blue)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
