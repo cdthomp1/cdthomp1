@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
+- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
 
 
 ### 🛠 &nbsp;Tech Stack
