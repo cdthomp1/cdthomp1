@@ -28,7 +28,13 @@
 
 
 ## Latest Articles
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Create your own NPM Card! Part 2](https://dev.to/cdthomp1/create-your-own-npm-card-part-2-3651)
+- [Create your own NPM Card! Part 1](https://dev.to/cdthomp1/create-your-own-npm-card-ejp)
+- [Rate my portfolio site!](https://dev.to/cdthomp1/rate-my-portfolio-site-dbn)
+- [Serverless or Server?](https://dev.to/cdthomp1/serverless-or-server-4knp)
+- [Back To Basics HTML: The P Tag](https://dev.to/cdthomp1/back-to-basics-html-the-p-tag-p-13k0)
+<!-- BLOG-POST-LIST:END -->
 
 ## My Stats
 <p>
