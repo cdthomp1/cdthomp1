@@ -29,11 +29,11 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
 - [100 Days of Code (Next.js)](https://dev.to/cdthomp1/100-days-of-code-next-js-16nl)
 - [Todoist + Canvas = Awesomeness](https://dev.to/cdthomp1/todoist-canvas-awesomeness-4ma5)
 - [Help With Mongoose](https://dev.to/cdthomp1/help-with-mongoose-2jp7)
 - [Open Source Opportunity!](https://dev.to/cdthomp1/open-source-opportunity-16ol)
-- [A Case for Serverless](https://dev.to/cdthomp1/a-case-for-serverless-5da7)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
