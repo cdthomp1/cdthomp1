@@ -30,11 +30,11 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
 - [Day 2/100](https://dev.to/cdthomp1/day-2-100-4aeh)
 - [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
 - [100 Days of Code (Next.js)](https://dev.to/cdthomp1/100-days-of-code-next-js-16nl)
 - [Todoist + Canvas = Awesomeness](https://dev.to/cdthomp1/todoist-canvas-awesomeness-4ma5)
-- [Help With Mongoose](https://dev.to/cdthomp1/help-with-mongoose-2jp7)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
