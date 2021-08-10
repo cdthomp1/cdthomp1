@@ -30,11 +30,11 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
 - [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
 - [Day 2/100](https://dev.to/cdthomp1/day-2-100-4aeh)
 - [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
 - [100 Days of Code (Next.js)](https://dev.to/cdthomp1/100-days-of-code-next-js-16nl)
-- [Todoist + Canvas = Awesomeness](https://dev.to/cdthomp1/todoist-canvas-awesomeness-4ma5)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
