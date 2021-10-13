@@ -30,11 +30,11 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
 - [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
 - [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
 - [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
 - [Day 2/100](https://dev.to/cdthomp1/day-2-100-4aeh)
-- [Day 1/100](https://dev.to/cdthomp1/day-1-100-1pb9)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
