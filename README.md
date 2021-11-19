@@ -30,11 +30,11 @@
 
 ## Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)
 - [Filament Hero : Update!](https://dev.to/cdthomp1/filament-hero-update-1fg3)
 - [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
 - [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
 - [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-- [Arduino Zoom Box](https://dev.to/cdthomp1/arduino-zoom-box-394b)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Stats
